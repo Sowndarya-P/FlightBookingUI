@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+/* Reset so full-screen layouts work correctly */
+body, html, #root {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  min-height: 100vh;
+}
+
+body {
+  background-color: #f8fafc;
+}
